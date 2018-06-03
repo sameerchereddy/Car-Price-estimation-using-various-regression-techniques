@@ -147,6 +147,7 @@ ax.set_yticklabels(col_labels, minor=False)
 #rotate label if too long
 plt.xticks(rotation=90)
 
+
 fig.colorbar(im)
 plt.show()
 #ANOVA
